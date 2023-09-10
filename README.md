@@ -27,22 +27,13 @@
 
 <h2>🌱 I’m currently learning... </h2>
 
-- TensorFlow
-- 
-    - [BabaGan - Curb It](https://www.youtube.com/watch?v=1nl8opfgi78&ab_channel=BabaGanSounds)
-    - [BabaGan - Nova Night](https://www.youtube.com/watch?v=8RzVXUS7hxc&ab_channel=BabaGanSounds)
-    - [Nipsey Hustle - Overtime (BabaGan LoFi Remix)](https://www.youtube.com/watch?v=sUJXOx57XI8&ab_channel=BabaGanSounds)
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Deep Learning (TensorFlow)
+- Data Engineering (Spark, ETL)
+- McKinsey's Pyramid Priciples for Presenting
 
-Here are some ideas to get you started:
+<h2>⚡ Fun fact: ...</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [I am in the process of restoring a 1993 Nissan 180SX that I imported from Japan](https://postimg.cc/gallery/G9pFkNk)
+
+
+
