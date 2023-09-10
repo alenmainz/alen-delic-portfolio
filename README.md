@@ -1,61 +1,37 @@
-<h1>Hi, I'm Alen! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Biostatistician</a>, <a href="https://www.youtube.com/c/joshmadakor">Music Producer</a></h1>
+<h1>Hi, I'm Alen!
+<h1>Data Scientist, Biostatistician, Music Producer
 
-<h2>👨‍💻 Data Science:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>👨‍💻 Data Science</h2>
 
-<h2>👨‍💻 Biostatistics:</h2>
+- <b>NBA Basketball Prediction</b>
+  - [Using Web-Scraping and Classification Models to Predict 2024 NBA Season](https://github.com/alenmainz/personal-page/tree/main/Personal-Projects/NBA%20Prediction%20Project)
+- <b>Developing an ICH Prediction Model for a Mobile App</b>
+  - [Giving Neurologists a Tool to Guide Prognostication](https://play.google.com/store/apps/details?id=com.uofumedicalapp&pli=1)
+    
+<h2>👨‍💻 Biostatistics</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - 
+- [Full Portfolio of Biostatistics Projects (as Main Biostatistician)](https://github.com/alenmainz/personal-page/tree/main/Biostatistics/Published%20Papers)
+  - <b>Select Papers</b>
+    - [Using Marginal Structural Models to Uncover Causal Association Between Preeclmpasia and Later Stroke](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2778939)
+    - [Logistic Regression and Propensity Scores Used to Assess Impact of ICP Monitor Placement](https://pubmed.ncbi.nlm.nih.gov/33360250/)
+    - [Survival Analysis Methods Used to Find Link Between Blood Pressure Variability and Mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8643578/)
+
 <h2>📺 My Music</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [YouTube Channel](https://www.youtube.com/@babagansounds1714)
+  - <b>Select Songs</b>
+    - [BabaGan - Curb It](https://www.youtube.com/watch?v=1nl8opfgi78&ab_channel=BabaGanSounds)
+    - [BabaGan - Nova Night](https://www.youtube.com/watch?v=8RzVXUS7hxc&ab_channel=BabaGanSounds)
+    - [Nipsey Hustle - Overtime (BabaGan LoFi Remix)](https://www.youtube.com/watch?v=sUJXOx57XI8&ab_channel=BabaGanSounds)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🌱 I’m currently learning... </h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+- TensorFlow
+- 
+    - [BabaGan - Curb It](https://www.youtube.com/watch?v=1nl8opfgi78&ab_channel=BabaGanSounds)
+    - [BabaGan - Nova Night](https://www.youtube.com/watch?v=8RzVXUS7hxc&ab_channel=BabaGanSounds)
+    - [Nipsey Hustle - Overtime (BabaGan LoFi Remix)](https://www.youtube.com/watch?v=sUJXOx57XI8&ab_channel=BabaGanSounds)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
