@@ -16,7 +16,10 @@
     - [Using Marginal Structural Models to Uncover Causal Association Between Preeclmpasia and Later Stroke](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2778939)
     - [Logistic Regression and Propensity Scores Used to Assess Impact of ICP Monitor Placement](https://pubmed.ncbi.nlm.nih.gov/33360250/)
     - [Survival Analysis Methods Used to Find Link Between Blood Pressure Variability and Mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8643578/)
-
+- <b>Select Statistical Lectures Presented to Medical Residents at University of Utah and Yale University</b>
+  - [Basis of Statistics and Hypothesis Testing](https://github.com/alenmainz/personal-page/blob/main/Biostatistics/Presentations/2021.9.15%20-%20Basis%20of%20statistics%20and%20hypothesis%20testing.pdf)
+  - [Biostatistical Regressions and Reporting](https://github.com/alenmainz/personal-page/blob/main/Biostatistics/Presentations/2022.11.16%20-%20Biostatistical%20Regressions%20and%20Reporting.pdf)
+  - [Survival Analysis and Reporting](https://github.com/alenmainz/personal-page/blob/main/Biostatistics/Presentations/2023.1.11%20-%20Survival%20Analysis%20and%20Reporting.pdf)
 <h2>📺 My Music</h2>
 
 - [YouTube Channel](https://www.youtube.com/@babagansounds1714)
