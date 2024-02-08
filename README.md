@@ -30,8 +30,8 @@
 
 <h2>🌱 I’m currently learning... </h2>
 
-- Deep Learning (TensorFlow)
-- Data Engineering (Spark, ETL)
+- Deep Learning (PyTorch)
+- AWS
 - McKinsey's Pyramid Priciples for Presenting
 
 <h2>⚡ Fun fact: ...</h2>
